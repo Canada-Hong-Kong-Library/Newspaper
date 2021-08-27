@@ -22,7 +22,7 @@ Every week, a staff member will run a simple scraping code written in Python on 
 
 ### How to Scrape? ###
 
-Simple head to the top toolbar, click **Runtime** > **Run all ** > Then as it loads, you will get prompted to mount the Google Drive, simple click the link, copy and paste the clink into the "Enter your authorization code:" box, and then hit enter > The code should continue to run > Once a green checkmark appears on all code boxes, the scraping is done.
+Simple head to the top toolbar, click **Runtime** > **Run all** > Then as it loads, you will get prompted to mount the Google Drive, simple click the link, copy and paste the clink into the "Enter your authorization code:" box, and then hit enter > The code should continue to run > Once a green checkmark appears on all code boxes, the scraping is done.
 
 ## List of articles ##
 
