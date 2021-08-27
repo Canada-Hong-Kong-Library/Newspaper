@@ -20,6 +20,10 @@ Every week, a staff member will run a simple scraping code written in Python on 
 
 [China Daily Weekly Scraping](https://colab.research.google.com/drive/1ErlRRLMr0oddfnkgSwCOLMQLI_oxzdVc?authuser=1)
 
+### How to Scrape? ###
+
+Simple head to the top toolbar, click **Runtime** > **Run all ** > Then as it loads, you will get prompted to mount the Google Drive, simple click the link, copy and paste the clink into the "Enter your authorization code:" box, and then hit enter > The code should continue to run > Once a green checkmark appears on all code boxes, the scraping is done.
+
 ## List of articles ##
 
 While we are unable to scrape the backlog of SCMP articles, we have gathered previous article titles from HKFP and China Daily. The SCMP data will therefore be of limited numbers compared to HKFP and China Daily. 
